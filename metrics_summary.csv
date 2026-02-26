@@ -1,0 +1,8 @@
+model,metric,value,source,image_file,notes
+Heatmap,Accuracy,0.9945,initial OCR,heatmap model/heatmap model graphs/heatmap_per_class_accuracy.png,Detected by initial OCR pass
+Heatmap,Precision,0.9946,preprocess OCR,heatmap model/heatmap model graphs/heatmap_summary_metrics.png,Parsed as 'Precision' from preprocessed image
+Heatmap,ROC_AUCs,"1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000;1.000",initial OCR,heatmap model/heatmap model graphs/heatmap_roc_curves.png,Per-class AUCs detected by OCR
+Ulcer,Accuracy,0.8766,initial OCR,ulcer model/ulcer model graphs/ulcer_per_class_accuracy.png,Detected by initial OCR pass
+Ulcer,Precision,0.8785,preprocess OCR,ulcer model/ulcer model graphs/ulcer_summary_metrics.png,Parsed as 'Precision' from preprocessed image
+Ulcer,F1-Score,0.8766,preprocess OCR,ulcer model/ulcer model graphs/ulcer_summary_metrics.png,Parsed as 'F1-Score' from preprocessed image
+Ulcer,ROC_AUCs,"0.977;0.975;0.968;0.976",initial OCR,ulcer model/ulcer model graphs/ulcer_roc_curves.png,Per-grade AUCs detected by OCR
