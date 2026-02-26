@@ -1,0 +1,30 @@
+{
+  "heatmap_summary_metrics.png": {
+    "ocr_candidates": {
+      "psm_6": "OverallPeriormanceSummaryrieatmapMeocdlel",
+      "psm_4": "OverallPeriormanceSummaryrieatmapMeocdlel\n\nValue\n\nAccuracy\n\nPrecision 0.9946\n\nRecall\n\nFiScore",
+      "psm_3": "OverallPeriormanceSummaryrieatmapMeocdlel\n\nValue\n\nAccuracy\n\nPrecision 0.9946\n\nFiScore",
+      "psm_11": "OverallPeriormanceSummaryrieatmapMeocdlel\n\nMetric\n\nVAlue\n\nAccuracy\n\nPrecision\n\nRecall\n\nFiScore"
+    },
+    "parsed_metrics": {
+      "Precision": [
+        "0.9946"
+      ]
+    },
+    "preprocessed_image": "/Users/ddevatha/Documents/xstep-ml/tools/preproc_heatmap_summary_metrics.png"
+  },
+  "ulcer_summary_metrics.png": {
+    "ocr_candidates": {
+      "psm_6": "OverallPerrormanceSummaryUlcerMocel",
+      "psm_4": "OverallPerrormanceSummaryUlcerMocel\n\nValue\n\nAccuracy\n\nPrecision 0.8785\n\nRecall\n\nFiScore 0.8766",
+      "psm_3": "OverallPerrormanceSummaryUlcerMocel\n\nValue\n\nAccuracy\n\nPrecision\n\nFiScore",
+      "psm_11": "OveralllPeriormanceSummaryUlcerModel\n\nMetric\n\nVAlue\n\nAccuracy\n\nPrecision\n\nRecall\n\nFiScore"
+    },
+    "parsed_metrics": {
+      "Precision": [
+        "0.8785"
+      ]
+    },
+    "preprocessed_image": "/Users/ddevatha/Documents/xstep-ml/tools/preproc_ulcer_summary_metrics.png"
+  }
+}
